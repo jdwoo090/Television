@@ -1,0 +1,10 @@
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\bin\Debug\TVProject.exe.config
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\bin\Debug\TVProject.exe
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\bin\Debug\TVProject.pdb
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.csprojAssemblyReference.cache
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.tvForm.resources
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.Properties.Resources.resources
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.csproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.exe
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.pdb
+C:\Users\jdwoo090\source\repos\TVProject\TVProject\obj\Debug\TVProject.Channel.resources
